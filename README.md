@@ -1,4 +1,4 @@
-# Modelling Project: Personalised Modelling of the p53 DNA Damage Response for Colorectal Cancer
+# Modelling Project: Personalised Modelling of the p53 DNA Damage Response - Colorectal Cancer
 
 **Can the p53 model predict patient survival?**
 
